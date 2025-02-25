@@ -1,0 +1,11 @@
+{
+    "name": "angular-intuitive-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-intuitive-ui": "file:../stencil-intuitive-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
